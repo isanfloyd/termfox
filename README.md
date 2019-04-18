@@ -5,7 +5,9 @@
 <b>-+=> Termfox First Version:</b>
 
 Type 'python2 termfox.py' to launch Termfox on Termux
+
 Type 'python termfox.py' to launch Termfox on Linux
+
 Type 'passwd' for password
 
 <b>-+=> Screenshot : </b>
