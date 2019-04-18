@@ -4,7 +4,8 @@
 
 <b>-+=> Termfox First Version:</b>
 
-Type 'termfox' to launch Termfox 
+Type 'python2 termfox.py' to launch Termfox on Termux
+Type 'python termfox.py' to launch Termfox on Linux
 Type 'passwd' for password
 
 <b>-+=> Screenshot : </b>
@@ -22,7 +23,7 @@ $ sh setup.sh
 
 <i>on download:</i>
 
-download from github
+download termfox-master.zip from github
 $ unzip termfox-master
 $ cd termfox-master
 $ sh setup.sh
