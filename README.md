@@ -8,6 +8,8 @@
 Type 'termfox' to launch Termfox 
 Type 'passwd' for password
 
+<b>-+=> Screenshot : </b>
+<img src="termfoxScreenshot.png "/>
 <b>-+=> How To Install:</b>
 
 <i>on termux:</i>
