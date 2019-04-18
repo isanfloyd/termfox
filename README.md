@@ -18,17 +18,19 @@ Type 'passwd' for password
 
 <i>on termux:</i>
 
-$ pkg install git
-$ git clone https://github.com/MrViver/termfox
-$ cd termfox
-$ sh setup.sh
+
+<p>$ pkg install git</p>
+<p>$ git clone https://github.com/MrViver/termfox</p>
+<p>$ cd termfox</p>
+<p>$ sh setup.sh</p>
 
 <i>on download:</i>
 
 download termfox-master.zip from github
-$ unzip termfox-master
-$ cd termfox-master
-$ sh setup.sh
+
+<p>$ unzip termfox-master</p>
+<p>$ cd termfox-master</p>
+<p>$ sh setup.sh</p>
 
 
 Join to my social media
