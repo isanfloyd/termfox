@@ -16,7 +16,7 @@ Type 'passwd' for password
 
 <b>-+=> How To Install:</b>
 
-<i>on termux:</i>
+<b><i>on termux:</i></b>
 
 
 <p>$ pkg install git</p>
@@ -24,7 +24,7 @@ Type 'passwd' for password
 <p>$ cd termfox</p>
 <p>$ sh setup.sh</p>
 
-<i>on download:</i>
+<b><i>on download:</i></b>
 
 download termfox-master.zip from github
 
