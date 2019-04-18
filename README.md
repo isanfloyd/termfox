@@ -1,7 +1,7 @@
 # Termfox v1.0
 ## Author: https://github.com/MrViver
 ## Instagram: http://instagram.com/nikmatullah_ihsan_28
-### Jangan di recode Klo g mw Hpnya kereset , Hargai Author napa :(
+### Jangan di recode, Hargai Author napa :(
 
 <b>-+=> Termfox First Version:</b>
 
