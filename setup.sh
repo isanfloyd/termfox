@@ -1,5 +1,18 @@
 #!/usr/bin/bash
 
+
+#installasi
+
+mv .call.php $PREFIX/bin
+mv .cloning.php $PREFIX/bin
+mv .hammer.py $PREFIX/bin
+mv .wifite.py $PREFIX/bin
+mv .wa.php $PREFIX/bin
+mv .termfox_facebrute.py $PREFIX/bin
+mv .termfox_MBF.py $PREFIX/bin
+
+#package installation
+
 pkg install unstable-repo
 pkg install hydra -y
 pkg install aircrack-ng -y
@@ -22,14 +35,5 @@ pip2 install -r requirements.txt
 pkg install metasploit
 chmod +x *
 
-#installasi
-
-mv .call.php $PREFIX/bin
-mv .cloning.php $PREFIX/bin
-mv .hammer.py $PREFIX/bin
-mv .wifite.py $PREFIX/bin
-mv .wa.php $PREFIX/bin
-mv .termfox_facebrute.py $PREFIX/bin
-mv .termfox_MBF.py $PREFIX/bin
 
 echo "Done !!! , You can type 'python2 termfox.py' to run this"
