@@ -1,6 +1,7 @@
 #!/usr/bin/bash
 
 pkg install unstable-repo
+pkg install hydra -y
 pkg install aircrack-ng -y
 pkg install root-repo -y
 pkg install fakeroot -y
